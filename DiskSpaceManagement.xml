@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-<PluginURL>https://raw.githubusercontent.com/strike84/unraid-disk.space.management/main/DiskSpaceManagement.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/strike84/unraid-disk.space.management/refs/heads/main/DiskSpaceManagement.plg</PluginURL>
 <PluginAuthor>strike</PluginAuthor>
 <Beta>False</Beta>
 <Category>HomeAutomation: Other: Tools:</Category>
